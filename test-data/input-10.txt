@@ -1,0 +1,4 @@
+#Create a ship with 1 torpedo in primary
+GT4500,1,0,0,0
+TORPEDO,SINGLE # fires from primary, after this the empty secondary comes next
+TORPEDO,SINGLE
